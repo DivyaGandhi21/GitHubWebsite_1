@@ -1,25 +1,25 @@
-## Welcome to GitHub Pages
+## Welcome to Divya Gandhi's Webpage
 
 You can use the [editor on GitHub](https://github.com/DivyaGandhi21/GitHubWebsite_1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Divya: This is markdown language
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Divya
+## Vipul
+### Gandhi
 
-- Bulleted
-- List
+- Apple
+- Mango
 
-1. Numbered
-2. List
+1. one
+2. two
 
 **Bold** and _Italic_ and `Code` text
 
